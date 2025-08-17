@@ -55,4 +55,4 @@ E pronto! A aplicação estará funcionando.
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Sara Nobrega**.
+Desenvolvido por **S. Nobrega**.
