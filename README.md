@@ -27,11 +27,11 @@ Como este é um projeto front-end estático, você não precisa de um servidor o
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/pizza2u/Projeto_Amigo_Secreto.git](https://github.com/pizza2u/Projeto_Amigo_Secreto.git)
+    git clone https://github.com/pizza2u/Projeto_Amigo_Secreto.git
     ```
 2.  **Navegue até a pasta do projeto:**
     ```bash
-    cd seu-repositorio
+    cd Projeto_Amigo_Secreto
     ```
 3.  **Abra o arquivo `index.html`:**
     Basta abrir o arquivo `index.html` diretamente no seu navegador de preferência (Google Chrome, Firefox, etc.).
