@@ -45,13 +45,13 @@ E pronto! A aplicação estará funcionando.
 
 │   └── play_circle_outline.png
 
-├── index.html      # Arquivo principal da estrutura da página
+├── index.html      `Arquivo principal da estrutura da página`
 
-├── style.css       # Arquivo de estilos
+├── style.css       `Arquivo de estilos`
 
-├── app.js          # Arquivo com toda a lógica do sorteio
+├── app.js          `Arquivo com toda a lógica do sorteio`
 
-└── README.md       # Este arquivo
+└── README.md       `Este arquivo`
 
 ## 👨‍💻 Autor
 
