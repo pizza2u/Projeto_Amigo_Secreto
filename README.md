@@ -39,13 +39,18 @@ Como este é um projeto front-end estático, você não precisa de um servidor o
 E pronto! A aplicação estará funcionando.
 ## 📁 Estrutura de Arquivos
 
-.
 ├── assets/
+
 │   ├── amigo-secreto.png
+
 │   └── play_circle_outline.png
+
 ├── index.html      # Arquivo principal da estrutura da página
+
 ├── style.css       # Arquivo de estilos
+
 ├── app.js          # Arquivo com toda a lógica do sorteio
+
 └── README.md       # Este arquivo
 
 ## 👨‍💻 Autor
