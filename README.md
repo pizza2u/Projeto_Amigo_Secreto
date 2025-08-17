@@ -38,4 +38,6 @@ Como este é um projeto front-end estático, você não precisa de um servidor o
 
 E pronto! A aplicação estará funcionando.
 
-## 📁 Estrutura de Arquivos
+## 👨‍💻 Autor
+
+Desenvolvido por **[Sara Nobrega]**.
