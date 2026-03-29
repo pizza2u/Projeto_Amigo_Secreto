@@ -22,8 +22,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 -   **JavaScript**: Para toda a lógica de programação e interatividade.
 
 ## 📂 Como Executar o Projeto
+Temos duas opções:
+1: Clique aqui [Amigo Secreto](https://pizza2u.github.io/Projeto_Amigo_Secreto/)
 
-Como este é um projeto front-end estático, você não precisa de um servidor ou de instalações complexas para executá-lo.
+2: Como este é um projeto front-end estático, você não precisa de um servidor ou de instalações complexas para executá-lo.
 
 1.  **Clone o repositório:**
     ```bash
